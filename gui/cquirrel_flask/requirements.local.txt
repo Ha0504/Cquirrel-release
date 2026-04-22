@@ -1,0 +1,12 @@
+Werkzeug==1.0.1
+Flask_Bootstrap==3.3.7.1
+Flask_SocketIO==4.3.1
+Flask==1.1.2
+Flask_Cors==3.0.9
+confluent-kafka==2.6.0
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+itsdangerous==2.0.1
+click==8.0.4
+python-socketio==4.6.1
+python-engineio==3.14.2
