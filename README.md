@@ -2,7 +2,7 @@
 
 Cquirrel is a demonstration system that turns SQL queries into Apache Flink jobs and visualizes the query execution workflow through a web UI.
 
-Cquirrel 是一个演示系统：它可以把 SQL 查询转换成 Apache Flink 作业，并通过 Web 界面展示查询执行流程。
+Cquirrel：它可以把 SQL 查询转换成 Apache Flink，并通过 Web 界面展示查询执行流程。
 
 ## Repository Policy / 仓库数据政策
 
