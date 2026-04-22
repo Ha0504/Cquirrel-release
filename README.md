@@ -22,9 +22,9 @@ Ignored local artifacts include:
 - `codegen/target/`
 - `.run/`, `.idea/`, `__pycache__/`, `.DS_Store`
 
-If you need a dataset, generate it locally by following the steps below. Do not upload generated datasets to GitHub.
+If you need a dataset, generate it locally by following the steps below.
 
-如果需要数据集，请按下面步骤在本地重新生成。不要把生成后的数据集上传到 GitHub。
+如果需要数据集，按下面步骤在本地重新生成。
 
 ## Directory Layout / 目录结构
 
