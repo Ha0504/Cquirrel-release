@@ -10,10 +10,9 @@ This repository is intended for GitHub source-code hosting. Production datasets,
 
 本仓库按 GitHub 源码仓库整理。生产数据集、生成后的 TPC-H 输入流、本地运行输出、依赖目录和构建产物都不应提交到 Git。
 
-Ignored local artifacts include:
 
-需要本地自己生产的文件
-Files that need to be generated locally
+Files that need to be generated locally：
+需要本地自己生产的文件：
 
 - `DemoTools/DataGenerator/*.tbl`
 - `DemoTools/DataGenerator/input_data_*.csv`
