@@ -12,7 +12,8 @@ This repository is intended for GitHub source-code hosting. Production datasets,
 
 Ignored local artifacts include:
 
-本地会被忽略的文件包括：
+需要本地自己生产的文件
+Files that need to be generated locally
 
 - `DemoTools/DataGenerator/*.tbl`
 - `DemoTools/DataGenerator/input_data_*.csv`
